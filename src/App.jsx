@@ -12,7 +12,7 @@ import AdminKnowledgeBase from './pages/admin/AdminKnowledgeBase'
 import AdminSettings from './pages/admin/AdminSettings'
 
 // Components
-import ChatBot from './components/chatbot/ChatBot'
+import ChatBot from './components/chatbot/Chatbot.jsx'
 import AdminWidget from './components/admin/AdminWidget'
 import AdminFiles from './components/admin/AdminFiles'
 import StarSpinner from './components/common/StarSpinner'
